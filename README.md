@@ -1,12 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bubble Sort
 
 > Bubble sort algorithm implemented using Ruby.
 
 ## Built With
 
 - Ruby
+- Rubocop
 
 ## Authors
 
